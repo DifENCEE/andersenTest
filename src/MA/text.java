@@ -10,5 +10,7 @@ public class text {
         System.out.println("q");
         System.out.println("q");
         System.out.println("qq");
+
+        System.out.println("bye");
     }
 }
