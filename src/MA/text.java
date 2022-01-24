@@ -10,5 +10,6 @@ public class text {
 
         System.out.println("2nd");
         System.out.println("2nd");
+        System.out.println("3nd");
     }
 }
