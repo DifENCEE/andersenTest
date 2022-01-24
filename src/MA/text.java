@@ -8,5 +8,6 @@ public class text {
         System.out.println("3");
 
         System.out.println("q");
+        System.out.println("q");
     }
 }
