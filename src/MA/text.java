@@ -6,10 +6,5 @@ public class text {
         System.out.println("cya");
         System.out.println("2");
         System.out.println("3");
-
-
-        System.out.println("2nd");
-        System.out.println("2nd");
-        System.out.println("3nd");
     }
 }
