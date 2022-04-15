@@ -1,6 +1,6 @@
 package MA;
 
-public class text {
+public class Text {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("cya");
@@ -14,7 +14,13 @@ public class text {
         System.out.println("bye");
         System.out.println("bye");
 
-        System.out.println("11");
-        System.out.println("22");
+
+        System.out.println("uu");
+        System.out.println("aaa");
+        System.out.println("ss");
+        System.out.println("buu");
+
+        System.out.println("1");
+        System.out.println("2");
     }
 }
