@@ -21,6 +21,7 @@ public class Text {
         System.out.println("buu");
 
         System.out.println("1");
+        System.out.println("sssse");
 
     }
 }
