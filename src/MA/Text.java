@@ -6,5 +6,7 @@ public class Text {
         System.out.println("test");
         System.out.println("new!");
 
+        System.out.println("the world is mine");
+
     }
 }
