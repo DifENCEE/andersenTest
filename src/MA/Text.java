@@ -11,6 +11,7 @@ public class Text {
         System.out.println("the world is mine");
         System.out.println("mergeTest");
         System.out.println("mergeTest2");
+        System.out.println("mergeTest3");
 
     }
 }
