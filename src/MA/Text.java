@@ -6,6 +6,7 @@ public class Text {
         System.out.println("test");
         System.out.println("new!");
         System.out.println("dev branch changes");
+        System.out.println("dev branch changes1");
 
         System.out.println("the world is mine");
 
