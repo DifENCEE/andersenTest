@@ -10,5 +10,6 @@ public class Text {
         System.out.println("branch changes1");
         System.out.println("branch changes2");
         System.out.println("branch changes3");
+        System.out.println("branch changes4");
     }
 }
