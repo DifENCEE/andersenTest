@@ -6,6 +6,6 @@ public class Text {
         System.out.println("change from dev1");
         System.out.println("change from dev2");
 
-
+        System.out.println("new test1");
     }
 }
