@@ -1,6 +1,8 @@
-package MA;
+package ru.vladi.experiments;
 
-public class Text {
+import streams.FourthTask;
+
+public class TrashHolderOnlyForExperiments {
     public static void main(String[] args) {
         System.out.println("change from dev");
         System.out.println("change from dev1");
@@ -11,5 +13,8 @@ public class Text {
 
 
         System.out.println("new changes here");
+
+        //imported from dependency
+        FourthTask.main(args);
     }
 }
