@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.vladi.experiments</groupId>
-    <artifactId>git_experiments</artifactId>
+    <artifactId>git-experiments</artifactId>
     <packaging>pom</packaging>
     <version>1.1.0</version>
     <modules>
