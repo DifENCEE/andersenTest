@@ -13,6 +13,7 @@ public class TrashHolderOnlyForExperiments {
 
 
         System.out.println("new changes here");
+        System.out.println("check .idea kill");
 
         //imported from dependency
         FourthTask.main(args);
