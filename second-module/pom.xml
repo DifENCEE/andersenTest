@@ -2,15 +2,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>git_experiments</artifactId>
+        <groupId>ru.vladi.experiments</groupId>
+        <version>1.1.0</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ru.vladi.experiments</groupId>
-    <artifactId>git_experiments</artifactId>
+    <artifactId>second-module</artifactId>
     <packaging>pom</packaging>
-    <version>1.1.0</version>
     <modules>
-        <module>simple-module</module>
-        <module>second-module</module>
+        <module>inner-module</module>
     </modules>
 
     <properties>
@@ -18,12 +20,20 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+    <!--
+    на этот раз отработало нормально, но было на проекте так, что в нижнем pom.xml была зависимость,
+    а в модуле и его внутреннем модуле эта зависимость была невидима
+    помогло вот это
+
     <dependencies>
         <dependency>
             <groupId>ru.vladi.home</groupId>
             <artifactId>my-tests</artifactId>
-            <version>1.0.1</version>
+            <type>pom</type>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
-    
+    -->
+
+
 </project>
