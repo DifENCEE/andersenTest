@@ -1,6 +1,6 @@
 package ru.vladi.experiments;
 
-import streams.FourthTask;
+import ru.vladi.home.streams.FourthTask;
 
 public class TrashHolderOnlyForExperiments {
     public static void main(String[] args) {

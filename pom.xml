@@ -21,8 +21,8 @@
     <dependencies>
         <dependency>
             <groupId>ru.vladi.home</groupId>
-            <artifactId>my-tests</artifactId>
-            <version>1.0.1</version>
+            <artifactId>common-study</artifactId>
+            <version>1.5.0</version>
         </dependency>
     </dependencies>
     
