@@ -17,6 +17,7 @@ public class TrashHolderOnlyForExperiments {
         System.out.println("invisible changes");
 
         System.out.println("fix ver here");
+        System.out.println("fix ver here");
 
         //imported from dependency
         FourthTask.main(args);
