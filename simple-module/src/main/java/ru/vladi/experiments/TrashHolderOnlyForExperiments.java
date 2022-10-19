@@ -16,6 +16,8 @@ public class TrashHolderOnlyForExperiments {
         System.out.println("check .idea kill");
         System.out.println("invisible changes");
 
+        System.out.println("fix ver here");
+
         //imported from dependency
         FourthTask.main(args);
     }
