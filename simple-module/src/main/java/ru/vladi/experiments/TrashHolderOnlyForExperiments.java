@@ -18,6 +18,7 @@ public class TrashHolderOnlyForExperiments {
 
         System.out.println("fix ver here");
         System.out.println("fix ver here");
+        System.out.println("fix ver here2");
 
         //imported from dependency
         FourthTask.main(args);
