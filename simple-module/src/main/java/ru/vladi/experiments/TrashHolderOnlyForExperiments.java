@@ -17,6 +17,7 @@ public class TrashHolderOnlyForExperiments {
         System.out.println("invisible changes");
 
         System.out.println("here is a main changes");
+        System.out.println("here is a main changes");
 
         //imported from dependency
         FourthTask.main(args);
