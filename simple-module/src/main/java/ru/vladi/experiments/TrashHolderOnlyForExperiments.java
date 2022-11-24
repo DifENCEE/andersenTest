@@ -22,6 +22,8 @@ public class TrashHolderOnlyForExperiments {
         System.out.println("here is a main changes");
         System.out.println("here is a main changes");
 
+        System.out.println("stupid test");
+
         //imported from dependency
         FourthTask.main(args);
     }
