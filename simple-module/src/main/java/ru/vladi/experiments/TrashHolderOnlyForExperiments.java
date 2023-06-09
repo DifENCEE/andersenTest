@@ -13,6 +13,8 @@ public class TrashHolderOnlyForExperiments {
 
         System.out.println("cherry change");
         System.out.println("cherry change");
+        System.out.println("cherry change");
+        System.out.println("cherry change");
 
 
         System.out.println("new changes here");
