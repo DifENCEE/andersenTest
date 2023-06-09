@@ -24,6 +24,8 @@ public class TrashHolderOnlyForExperiments {
 
         System.out.println("stupid test");
 
+        System.out.println("1st branch");
+
         //imported from dependency
         FourthTask.main(args);
     }
