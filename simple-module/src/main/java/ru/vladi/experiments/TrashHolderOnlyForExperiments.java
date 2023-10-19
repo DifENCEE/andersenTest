@@ -28,6 +28,7 @@ public class TrashHolderOnlyForExperiments {
         System.out.println("after squash cherry pick test");
         System.out.println("after squash cherry pick changes");
         System.out.println("after squash cherry pick changes1");
+        System.out.println("after squash cherry pick changes2");
 
         //imported from dependency
         FourthTask.main(args);
